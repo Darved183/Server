@@ -21,3 +21,7 @@ vless://966282a4-6a8c-48a5-815b-ef8b98a0d007@pantheon45.ru:8444?encryption=none&
 trojan://84WUV0nKLwsEP0458tMACw%3D%3D@pantheon45.ru:8442?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#pantheon45.ru
 ss://YWVzLTI1Ni1nY206NHVxdDErYTBXdHlkN0tFVA@77.91.84.122:8388?#pantheon45.ru 
 ```
+
+```
+hysteria2://QlAiD81%2BJDga8Km3wAR%2BCg%3D%3D@144.31.227.57:8443?insecure=1&allowInsecure=1#KeptVPN 
+```
